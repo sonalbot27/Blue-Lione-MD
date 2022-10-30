@@ -27,4 +27,4 @@
  ## `Saport
 
  ### `Thanks For Use My Whatsapp Bot`
-[Creat by Nipuna rangna]](https://github.com/Nipuna-apps)
+(Creat by Nipuna rangna)](https://github.com/Nipuna-apps)
