@@ -18,3 +18,5 @@
 [![Only](https://i.ibb.co/FJcrYJw/Screenshot-2022-10-08-192010.jpg)](https://heroku.com/deploy)
  
 ! බොට් හදන කෝට මතක ඇතුව united state වේනුවට Eroupe දෙන්න.
+
+[![Creat by] (https://avatars.githubusercontent.com/u/100415127?s=400&u=f4a3ae7d0517e68b1b1fd1e86d6f9ce3456de933&v=4)](https://github.com/Nipuna-apps)
