@@ -25,7 +25,7 @@
  
 ! බොට් හදන කෝට මතක ඇතුව united state වේනුවට Eroupe දෙන්න.
  ## `Saport Groups´
- 1.https://chat.whatsapp.com/GFqWE6eDkIII3Vnb0S1EUg
+ 1.https://chat.whatsapp.com/EpyBmn4ZZbEEKhVhNYMSr7
 
  ### `Thanks For Use My Whatsapp Bot`
 #Creat by Nipuna rangana
