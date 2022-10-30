@@ -24,7 +24,7 @@
 [![Only](https://i.ibb.co/FJcrYJw/Screenshot-2022-10-08-192010.jpg)](https://heroku.com/deploy)
  
 ! බොට් හදන කෝට මතක ඇතුව united state වේනුවට Eroupe දෙන්න.
- ## `Saport Groups´
+ ## `Saport Groups`
  1.https://chat.whatsapp.com/EpyBmn4ZZbEEKhVhNYMSr7
 
  ### `Thanks For Use My Whatsapp Bot`
